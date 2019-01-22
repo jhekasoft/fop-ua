@@ -1,0 +1,87 @@
+- num: 1
+  items:
+    - end_date: 18.01.2019
+      type: payment
+      title: Сплата ЄП за січень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 2
+  items:
+    - end_date: 20.02.2019
+      type: payment
+      title: Сплата ЄП за лютий 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 3
+  items:
+    - end_date: 01.03.2019
+      type: report
+      title: Декларація з ЄП за 2018 рік
+    - end_date: 20.03.2019
+      type: payment
+      title: Сплата ЄП за березень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 4
+  items:
+    - end_date: 19.04.2019
+      type: payment
+      title: Сплата ЄП за квітень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 5
+  items:
+    - end_date: 20.05.2019
+      type: payment
+      title: Сплата ЄП за травень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 6
+  items:
+    - end_date: 20.06.2019
+      type: payment
+      title: Сплата ЄП за червень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 7
+  items:
+    - end_date: 19.07.2019
+      type: payment
+      title: Сплата ЄП за липень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 8
+  items:
+    - end_date: 20.08.2019
+      type: payment
+      title: Сплата ЄП за серпень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 9
+  items:
+    - end_date: 20.09.2019
+      type: payment
+      title: Сплата ЄП за вересень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 10
+  items:
+    - end_date: 18.10.2019
+      type: payment
+      title: Сплата ЄП за жовтень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 11
+  items:
+    - end_date: 20.11.2019
+      type: payment
+      title: Сплата ЄП за листопад 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60
+- num: 12
+  items:
+    - end_date: 20.12.2019
+      type: payment
+      title: Сплата ЄП за грудень 2019 року
+      amount_max_group1: 192.10
+      amount_max_group2: 834.60

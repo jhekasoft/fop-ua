@@ -1,0 +1,40 @@
+- num: 2
+  items:
+    - end_date: 11.02.2019
+      type: report
+      title: Декларація з ЄП за 2018 рік
+    - end_date: 21.02.2019
+      type: payment
+      title: Сплата ЄП за ІV квартал 2018 року
+      amount_percents_pdv: 3
+      amount_percents_no_pdv: 5
+- num: 5
+  items:
+    - end_date: 10.05.2019
+      type: report
+      title: Декларація з ЄП за І квартал 2019 року
+    - end_date: 20.05.2019
+      type: payment
+      title: Сплата ЄП за І квартал 2019 року
+      amount_percents_pdv: 3
+      amount_percents_no_pdv: 5
+- num: 8
+  items:
+    - end_date: 09.08.2019
+      type: report
+      title: Декларація з ЄП за півріччя 2018 року
+    - end_date: 19.08.2019
+      type: payment
+      title: Сплата ЄП за IІ квартал 2019 року
+      amount_percents_pdv: 3
+      amount_percents_no_pdv: 5
+- num: 11
+  items:
+    - end_date: 11.11.2019
+      type: report
+      title: Декларація з ЄП за три квартали 2019 року
+    - end_date: 21.11.2019
+      type: payment
+      title: Сплата ЄП за IIІ квартал 2019 року
+      amount_percents_pdv: 3
+      amount_percents_no_pdv: 5
