@@ -1,29 +1,19 @@
-- num: 1
-  items:
-    - end_date: 21.01.2019
-      type: payment
-      title: Сплата ЄСВ за ІV квартал 2018 року
-      amount: 2457.18
-- num: 2
-  items:
-    - end_date: 11.02.2019
-      type: report
-      title: Звіт з ЄСВ за 2018 рік
-- num: 4
-  items:
-    - end_date: 19.04.2019
-      type: payment
-      title: Сплата ЄСВ за І квартал 2019 року
-      amount: 2754.18
-- num: 7
-  items:
-    - end_date: 19.07.2019
-      type: payment
-      title: Сплата ЄСВ за IІ квартал 2019 року
-      amount: 2754.18
-- num: 10
-  items:
-    - end_date: 21.10.2019
-      type: payment
-      title: Сплата ЄСВ за IІI квартал 2019 року
-      amount: 2754.18
+- end_date: 21.01.2019
+  type: payment
+  title: Сплата ЄСВ за ІV квартал 2018 року
+  amount: 2457.18
+- end_date: 11.02.2019
+  type: report
+  title: Звіт з ЄСВ за 2018 рік
+- end_date: 19.04.2019
+  type: payment
+  title: Сплата ЄСВ за І квартал 2019 року
+  amount: 2754.18
+- end_date: 19.07.2019
+  type: payment
+  title: Сплата ЄСВ за IІ квартал 2019 року
+  amount: 2754.18
+- end_date: 21.10.2019
+  type: payment
+  title: Сплата ЄСВ за IІI квартал 2019 року
+  amount: 2754.18
